@@ -12,7 +12,7 @@ github_repo: "https://github.com/chenproton/chenproton.github.io.git" # you code
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "世界上只有两件事深深的震撼着人们的心灵"
-sidebar-avatar: /img/home-bg-art.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
