@@ -1,7 +1,7 @@
 # Site settings
 title: Proton的博客
 SEOTitle: Proton的博客 | Proton's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg.jpg
 email: chenproton@gmail.com
 description: "."
 keyword: "Proton, Proton Blog, Proton的博客, chenproton, 陈云龙的博客, 陈云龙"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/chenproton/chenproton.github.io.git" # you code
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "世界上只有两件事深深的震撼着人们的心灵"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/home-bg-art.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
