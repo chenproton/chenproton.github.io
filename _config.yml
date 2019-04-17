@@ -1,10 +1,10 @@
 # Site settings
 title: Proton的博客
-SEOTitle: Proton的博客 | Proton Blog
+SEOTitle: Proton的博客 | Proton's Blog
 header-img: img/post-bg-desk.jpg
 email: chenproton@gmail.com
 description: "."
-keyword: "Proton, Proton Blog, Proton的博客, chenproton, 陈云龙, iOS, Apple, iPhone"
+keyword: "Proton, Proton Blog, Proton的博客, chenproton, 陈云龙的博客, 陈云龙"
 url: "http://chenproton.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
