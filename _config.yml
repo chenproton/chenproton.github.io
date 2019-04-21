@@ -55,8 +55,8 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: disqus_tzX2HqzTNt
+# Disqus（https://disqus.com/）
+# disqus_username: disqus_tzX2HqzTNt
 
 <!-- Gitalk 评论 start  -->
 
@@ -67,12 +67,12 @@ kramdown:
     var gitalk = new Gitalk({
 
     // gitalk的主要参数
-    clientID: `Github Application clientID`,
-    clientSecret: `Github Application clientSecret`,
-    repo: `存储你评论 issue 的 Github 仓库名`,
-    owner: 'Github 用户名',
-    admin: ['Github 用户名'],
-    id: '页面的唯一标识，gitalk会根据这个标识自动创建的issue的标签',
+    clientID: `bedd6aaa68a92a48df53`,
+    clientSecret: `1c87f820313216b0706dbcc7361325824c8b2810`,
+    repo: `chenproton.github.io`,
+    owner: 'chenproton',
+    admin: ['chenproton'],
+    id: 'window.location.pathname',
     
     });
     gitalk.render('gitalk-container');
@@ -80,14 +80,14 @@ kramdown:
 <!-- Gitalk end -->
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: chenproton.github.io    #仓库名称
-  owner: chenproton    #github用户名
-  admin: chenproton
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: bedd6aaa68a92a48df53                            #生成的clientID
+#  clientSecret: 1c87f820313216b0706dbcc7361325824c8b2810    #生成的clientSecret
+#  repo: chenproton.github.io    #仓库名称
+#  owner: chenproton    #github用户名
+#  admin: chenproton
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
